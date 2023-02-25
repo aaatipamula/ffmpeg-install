@@ -1,7 +1,6 @@
 # Guide to Installing FFmpeg
 
 ## FFmpeg Windows Install 
-<br>
 
 ### Install With Package Manager (Recommended)<br>
 
@@ -63,13 +62,9 @@ choco install ffmpeg
 
 ![fig7](./pictures/fig7.png)
 
-<br>
-
 ---
-<br>
 
 ## FFmpeg OSX Install 
-<br>
 
 ### Install With Package Manager (Recommended) <br>
 
@@ -113,7 +108,7 @@ brew install ffmpeg
 sudo cp ./bin/ffmpeg /usr/share/bin
 ```
 
-***If you do not have admin privileges to do this or would rather not have to use admin you can also acheive this by editing your shell startup file in order to include the ffmpeg folder.***
+***If you do not have admin privileges to do this or would rather not have to use admin you can also achieve this by editing your shell startup file in order to include the ffmpeg folder.***
 
 - To find the shell you are using run the following command: 
 
